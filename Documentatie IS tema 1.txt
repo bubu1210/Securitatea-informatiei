@@ -1,0 +1,7 @@
+Pentru realizarea temei 1 am folosit limbajul JAVA si programul IntelliJ IDEA.
+- Alte setari nu au fost necesare.
+- Mod de lucru: Se ruleaza mai intai fisierul Server.java, apoi ClientA.java si ClientB.java.
+ClinetulA va introduce unul dintre cele 2 moduri de criptare cu litere mari (ECB/CBC).
+Serverul cripteaza cheia respectiva si o trimite clientilor, daca procesul are succes un mesaj va fi afisat.
+Apoi ClientulA va introduce tot de la tastatura textul ce va fi criptat.
+Iar ClientulB va decripta pe rand mesajul trimis. Daca procesul de decriptare are succes textul va fi afisat.
